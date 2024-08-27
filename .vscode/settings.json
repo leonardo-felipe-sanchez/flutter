@@ -1,0 +1,22 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 500,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "sapato",
+            "database": "mysql",
+            "username": "root",
+            "password": "root"
+        }
+    ],
+    "java.project.sourcePaths": [
+        ""
+    ]
+}
